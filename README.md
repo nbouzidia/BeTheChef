@@ -1,0 +1,1 @@
+Ce projet est une application Java de gestion de recettes, construite avec JavaFX et Scene Builder. Explorez une variété de recettes, recherchez des ingrédients spécifiques et découvrez des astuces culinaires pratiques. Parfait pour les passionnés de cuisine et les amateurs qui souhaitent organiser leurs recettes préférées de manière intuitive et conviviale
